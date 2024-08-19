@@ -34,7 +34,7 @@ export const List = ({ tasks, handleDelete }) => {
                   ))
                 ) : (
                   <li className="list-group-item text-center">
-                    Lista de tareas vacía
+                    Contenedor vacío
                   </li>
                 )}
               </ul>
